@@ -1,0 +1,35 @@
+
+.first{
+  border: 1px solid black;
+  height: 200px;
+  width: 210px;
+}
+.maincont{
+  border: 1px solid black;
+  height: 250px;
+  width: 400px;
+  display: flex;
+}  
+.block1{
+  border: 1px solid black;
+  height: 40%;
+  width: 200px;
+  background-color: red;
+}
+.block2{
+  border: 1px solid black;
+  height: 40%;
+  width: 200px;
+  background-color: green;
+}
+.block3{
+  border: 1px solid black;
+  height: 40%;
+  width: 200px;
+  background-color: blue;
+}
+.sec{
+   border: 1px solid black;
+  height: 250px;
+  width: 200px;
+}
