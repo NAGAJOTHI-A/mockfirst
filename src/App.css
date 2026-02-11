@@ -3,3 +3,15 @@
     height: 400px;
     width: 500px;
 }
+#box h1{
+ display: inline;
+ font-size: 40px;
+ margin-right: 100px;
+}
+#box button{
+    display: inline;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    font-size: 30px;
+}

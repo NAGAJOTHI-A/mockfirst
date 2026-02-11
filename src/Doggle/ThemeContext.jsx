@@ -8,7 +8,7 @@ let themes={
         backgroundColor:"#404040 "
     },
     light:{
-        backgroundColor:"#eee844"
+        backgroundColor:"#9fdbe9"
     }
 }
 
